@@ -1,0 +1,7 @@
+Hi there! I'd be happy to help you with your question about the HTML course in Sigma.
+
+The content of HTML is covered in Video 1: "Installing VS Code & How Websites Work". To be more specific, it's introduced at around 1412 seconds into the video. The instructor mentions that they will learn HTML, CSS, and JavaScript throughout this video.
+
+As for how much content is taught, it seems to be a brief introduction to HTML, specifically mentioning the basics of an HTML document and its structure. If you'd like to learn more about HTML, I recommend checking out Video 1.
+
+Let me know if there's anything else I can help with!
